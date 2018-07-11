@@ -120,6 +120,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Главное</Subsystem>
 			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
