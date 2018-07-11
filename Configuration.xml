@@ -118,6 +118,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Главное</Subsystem>
+			<Catalog>Организации</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
